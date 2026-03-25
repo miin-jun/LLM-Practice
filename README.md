@@ -64,3 +64,6 @@ GPT-4.1-mini (답변 생성)
 - **필터**: 지역 선택(시·도 단위) + 시설명/주소 키워드 검색
 
 ---
+## 자료 출처 
+- 북한 도발 사례 : https://beyondparallel.csis.org/database-north-korean-provocations/?utm_source=chatgpt.com
+- 민방위 대피소 : https://www.data.go.kr/data/15044951/fileData.do#
